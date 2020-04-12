@@ -5,6 +5,12 @@ h2{
 h1{
   color: #fff3af;
 }
+video{
+text-align: center;
+margin:0 auto;
+display: block;
+width: 500px
+}
 .shreypic{border-radius: 50%}
 .body{margin: 100px;
       background-image: linear-gradient(#494ca2, #e3e7f1);}
