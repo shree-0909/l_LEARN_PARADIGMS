@@ -24,3 +24,9 @@ p{border-style: outset;
 font-family: 'Open Sans Condensed', sans-serif;
 font-family: 'Amiri', serif;
 }
+.start{font-family: 'Pacifico', cursive;
+  font-size: 70px;
+  color: #342ead;
+  line-height: 2;
+  }
+}
